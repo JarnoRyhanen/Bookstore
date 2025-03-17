@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-JarnobookstoreApplication<jarnobookstore>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "home.jarnobookstore.JarnobookstoreApplication",
+            "projectName": "jarnobookstore",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
